@@ -26,5 +26,15 @@ public class Main {
         */
         int classificacao = (int) (media /2);
         System.out.println(classificacao);
+
+
+        double tempGrausCelsius = 30.4;
+        double tempFahrenheit = (tempGrausCelsius * 1.8) + 32;
+        String mensage = String.format("A temperatura de %f Celsius é equivalente a %f Fahrenheit", tempGrausCelsius, tempFahrenheit);
+        System.out.println(mensage);
+
+        int tempFahrenheitInteira = (int) (tempGrausCelsius * 1.8) + 32;
+
+        System.out.println("A temperatura em Fahrenheit inteira é: " + tempFahrenheitInteira);
     }
 }
