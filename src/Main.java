@@ -17,5 +17,14 @@ public class Main {
                 Ano de lançamento : 
                 """ + anoDeLancamento;
         System.out.println(sinopse);
+
+
+
+        /* na classificação usamos a media da nota que vai
+         de 0 a 10 , para avaliar em ate 5 estrelas
+         então convertemos para inteiro e dividimos por 2
+        */
+        int classificacao = (int) (media /2);
+        System.out.println(classificacao);
     }
 }
