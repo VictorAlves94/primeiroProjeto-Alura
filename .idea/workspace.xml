@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b5b33ce-dc71-4acc-bebe-98f9e9f9a6b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Condicional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leitura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OutroLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Leitura">
+  <component name="RunManager" selected="Application.OutroLoop">
     <configuration name="Condicional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Condicional" />
       <module name="primeiroProjeto-Alura" />
@@ -54,6 +54,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop" />
+      <module name="primeiroProjeto-Alura" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="primeiroProjeto-Alura" />
@@ -61,8 +68,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OutroLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OutroLoop" />
+      <module name="primeiroProjeto-Alura" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OutroLoop" />
+        <item itemvalue="Application.Loop" />
         <item itemvalue="Application.Leitura" />
         <item itemvalue="Application.Condicional" />
         <item itemvalue="Application.Main" />
